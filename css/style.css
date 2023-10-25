@@ -7,6 +7,10 @@
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+/* HEADER */
+
+
 /* MAIN */
 .container{
     width: 100%;
@@ -34,7 +38,7 @@ body{
 
 h2{
     position: absolute;
-    top: 80%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
